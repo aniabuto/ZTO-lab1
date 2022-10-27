@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DeveFdKalWhViIS73bVD98dDqcGl8BBLQXjkhiY6Mhl0tpoHjKVwWGBc5FUe7zWBnsVhucoQmnWQov4ouA85Q==",
+  "success": true,
+  "projectFilePath": "D:\\Studia\\semestr 7\\ZaawansowaneTechnikiObiektowe\\Lab1\\lab_val\\TDDLab.Core\\TDDLab.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aniab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\aniab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\aniab\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

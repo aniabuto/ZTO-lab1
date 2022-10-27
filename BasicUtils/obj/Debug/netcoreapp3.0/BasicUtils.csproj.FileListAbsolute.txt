@@ -1,0 +1,10 @@
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\bin\Debug\netcoreapp3.0\BasicUtils.deps.json
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\bin\Debug\netcoreapp3.0\BasicUtils.dll
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\bin\Debug\netcoreapp3.0\BasicUtils.pdb
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.csproj.AssemblyReference.cache
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.AssemblyInfoInputs.cache
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.AssemblyInfo.cs
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.csproj.CoreCompileInputs.cache
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.dll
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\BasicUtils\obj\Debug\netcoreapp3.0\BasicUtils.pdb

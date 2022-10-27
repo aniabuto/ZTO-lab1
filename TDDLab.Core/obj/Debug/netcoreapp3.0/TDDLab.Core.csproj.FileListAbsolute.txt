@@ -1,0 +1,13 @@
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\bin\Debug\netcoreapp3.0\TDDLab.Core.deps.json
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\bin\Debug\netcoreapp3.0\TDDLab.Core.dll
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\bin\Debug\netcoreapp3.0\TDDLab.Core.pdb
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\bin\Debug\netcoreapp3.0\BasicUtils.dll
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\bin\Debug\netcoreapp3.0\BasicUtils.pdb
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.csproj.AssemblyReference.cache
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.AssemblyInfoInputs.cache
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.AssemblyInfo.cs
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.csproj.CoreCompileInputs.cache
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.csproj.CopyComplete
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.dll
+D:\Studia\semestr 7\ZaawansowaneTechnikiObiektowe\Lab1\lab_val\TDDLab.Core\obj\Debug\netcoreapp3.0\TDDLab.Core.pdb
