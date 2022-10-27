@@ -52,22 +52,6 @@ public class MoneyTest
 
         Assert.AreEqual(money3, new Money(15, "zl"));
     }
-
-    [TestMethod]
-    public void TestToStringMethod()
-    {
-        var money = new Money(234, "currency");
-
-        var moneyString = money.ToString();
-        
-        Assert.AreEqual("234currency", moneyString);
-    }
-
-    [TestMethod]
-    public void TestNotEquals()
-    {
-        Assert.AreNotEqual(new Money(234, "curtency"), new Money(234, "currency"));
-    }
     
     
 }
