@@ -2,5 +2,19 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=950e9f73_002Dcb8e_002D484c_002D83d7_002Dded1fa796d77/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestOperatorPlusSameCurrency" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.MoneyTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.AddressTest.TestAddressLineValidation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.AddressTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceLineTest.TestValidationRulesFail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceLineTest.TestValidationRulesProductNamePass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceLineTest.TestValidationRulesMoneyPass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.RecipientTest.TestValidationRulesFail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.RecipientTest.TestValidationRulesNamePass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.RecipientTest.TestValidationRulesAddressPass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceTest.TestValidationRulesFail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceTest.TestValidationRulesRecipientPass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.DomainExtensionsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceLineTest.TestToString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::F336601E-FCDB-4612-8EB2-AE33D84659F4::net6.0::Tests.InvoiceLineTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
