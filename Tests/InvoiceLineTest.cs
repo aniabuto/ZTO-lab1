@@ -66,4 +66,15 @@ public class InvoiceLineTest
         Assert.AreEqual("pName for 12USD", invoiceLineString);
     }
 
+    [TestMethod]
+    public void TestInvoice()
+    {
+        InvoiceLine invoiceLine = new InvoiceLine("pName", new Money(12));
+        Invoice invoice = new Invoice("", null, null, null);
+
+        invoiceLine.Invoice = invoice;
+        
+        Assert.IsNotNull(invoiceLine.Invoice);
+    }
+
 }

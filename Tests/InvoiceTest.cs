@@ -120,4 +120,24 @@ public class InvoiceTest
         
         Assert.IsTrue(linesSatisfied);
     }
+
+    [TestMethod]
+    public void TestInvoiceAttachLine()
+    {
+        Invoice invoice = new Invoice();
+        InvoiceLine invoiceLine = new InvoiceLine("p1", new Money(1));
+        
+        invoice.AttachInvoiceLine(invoiceLine);
+        
+        Assert.AreEqual(1, invoice.Lines.Count);
+
+    }
+
+    [TestMethod]
+    public void TestRulesPresent()
+    {
+        InvoiceMock invoice = new InvoiceMock();
+        
+        Assert.AreEqual(5, invoice.RulesCount());
+    }
 }

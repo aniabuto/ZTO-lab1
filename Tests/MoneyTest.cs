@@ -190,4 +190,32 @@ public class MoneyTest
         
         Assert.IsTrue(areEqual);
     }
+
+    [TestMethod]
+    public void TestZero()
+    {
+        Money moneyZero = Money.ZERO;
+        
+        Assert.AreEqual(new Money(0), moneyZero);
+    }
+
+    [TestMethod]
+    public void TestEqualsNull()
+    {
+        Money money = new Money(0);
+
+        bool isEqual = money.Equals(null);
+        
+        Assert.IsFalse(isEqual);
+    }
+
+    [TestMethod] 
+    public void TestEquals()
+    {
+        Money money = Money.ZERO;
+
+        bool isEqual = money.Equals(money);
+        
+        Assert.IsTrue(isEqual);
+    }
 }
